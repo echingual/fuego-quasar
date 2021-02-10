@@ -3,6 +3,8 @@ código fuente que resuelve la prueba de Fuego de Quasar
 
 para iniciar el API (se debe tener instalado el JDK 8 de Java). Se puede seguir el siguiente procedimiento:
 
+ruta: fuego-quasar/apirestquasarfire/target/
+
 1. descargar el archivo apirest-0.0.1-SNAPSHOT.jar
 2. abrir una ventana de línea de comandos y ubicarse donde se encuentra el archivo
 3. ejecutar el siguiente comando: java -jar apirest-0.0.1-SNAPSHOT.jar
